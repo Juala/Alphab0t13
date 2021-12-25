@@ -2321,7 +2321,7 @@ ini_anu =`${ucapannya2}
 ├ Total hit : ${require('util').inspect(hitall(sender))}
 ├ Hit today : ${hit_today.length}
 ├ Speed : ${latensii.toFixed(4)} Second
-├ Hostname : ${os.hostname()}
+
 ├ Platform : ${os.platform()}
 ├ Runtime : ${(kyun(os.uptime()))}
 ├ Battery : ${isBattre}
