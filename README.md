@@ -58,6 +58,7 @@
 	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
 }
 ```
+ "Deploy"
 
 ## `CHANGE DYNO`
 
